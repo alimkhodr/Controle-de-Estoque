@@ -13,7 +13,7 @@ Listagem<br><br>
 ![image](https://github.com/alimoahmed/Controle-de-Estoque/assets/85517447/3b202a84-d241-443b-a08f-ebd60eb16cf7)<br><br>
 Listagem<br><br>
 ![image](https://github.com/alimoahmed/Controle-de-Estoque/assets/85517447/cc9bbb43-035b-4fc7-9002-d92288d74d54)<br><br>
-Listagem<br><br>
+Excluir Produto<br><br>
 ![image](https://github.com/alimoahmed/Controle-de-Estoque/assets/85517447/976bc7cc-0031-4c8b-b210-6b2b182cc264)<br><br>
-Listagem<br><br>
+Excel Gerado<br><br>
 ![image](https://github.com/alimoahmed/Controle-de-Estoque/assets/85517447/240db87a-119a-4544-9070-7cc382a66cd2)<br><br>
