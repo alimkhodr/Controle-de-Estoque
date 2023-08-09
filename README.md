@@ -10,7 +10,6 @@ Uma Aplicação Desktop desenvolvido em C# com o Banco de dados programado em SQ
 ![7](https://github.com/alimoahmed/Controle-de-Estoque/assets/85517447/96a24c77-30ed-49f4-9371-a37fbb6a9b2c)
 
 <h2>PROJETO</h2>
-<br><br>
 Login<br>
 ![image](https://github.com/alimoahmed/Controle-de-Estoque/assets/85517447/76eed9f2-8c91-43cc-b398-ddfac347a741)<br><br>
 Listagem<br>
