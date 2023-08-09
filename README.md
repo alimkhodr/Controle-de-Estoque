@@ -1,2 +1,2 @@
-# Controle-de-Estoque
 Controle de Estoque programado em C#
+Uma Aplicação Desktop desenvolvido em C# com o Banco de dados programado em SQL para gerenciar o estoque da empresa, na aplicação você pode fazer o login caso tiver uma conta, caso não tiver só o administrador poderá te cadastrar, entrando na aplicação temos a pagina de listagem de produtos podendo cadastrar, editar, excluir, gerar etiqueta caso o usuário tiver uma impressora conectada no sistema e gerar uma planilha no Excel dos produtos cadastrados no banco.
