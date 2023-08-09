@@ -7,11 +7,11 @@ Listagem<br>
 ![image](https://github.com/alimoahmed/Controle-de-Estoque/assets/85517447/bdebe601-e5be-4ec8-b43d-5aeeca1ac0a8)<br><br>
 Edição de Produto<br>
 ![image](https://github.com/alimoahmed/Controle-de-Estoque/assets/85517447/268988a4-cc4a-4bf9-89cc-701e88fe76d7)<br><br>
-Edição de Usuário<br>
+Cadastro de Produto<br>
 ![image](https://github.com/alimoahmed/Controle-de-Estoque/assets/85517447/555a8719-8cb3-4caa-9ca5-e67f421eabf6)<br><br>
-Listagem<br>
+Edição de Usuário<br>
 ![image](https://github.com/alimoahmed/Controle-de-Estoque/assets/85517447/3b202a84-d241-443b-a08f-ebd60eb16cf7)<br><br>
-Listagem<br>
+Cadastro de Usuário<br>
 ![image](https://github.com/alimoahmed/Controle-de-Estoque/assets/85517447/cc9bbb43-035b-4fc7-9002-d92288d74d54)<br><br>
 Excluir Produto<br>
 ![image](https://github.com/alimoahmed/Controle-de-Estoque/assets/85517447/976bc7cc-0031-4c8b-b210-6b2b182cc264)<br><br>
