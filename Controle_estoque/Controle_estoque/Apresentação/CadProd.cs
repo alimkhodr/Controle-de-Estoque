@@ -18,7 +18,7 @@ namespace Controle_estoque.Apresentação
             InitializeComponent();
         }
 
-        SqlConnection con = new SqlConnection(@"Data Source=10.251.24.11;Initial Catalog=TESTE1;Persist Security Info=True;User ID=sa;Password=P@ssw0rd");
+        SqlConnection con = new SqlConnection(@"sua_conexão");
         public int id;
 
         private void btncadastrar_Click(object sender, EventArgs e)
